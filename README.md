@@ -1,1 +1,1 @@
-# IKEA-Sales-Analysis--BI-Project-
+This academic project explores IKEA’s operational and sales performance through a complete Business Intelligence process. Using Python for data cleaning and transformation, MySQL for data warehousing, and Power BI for visualization, it delivers insights into product trends, customer preferences, and regional performance. The analysis highlights opportunities to optimize inventory, improve discount strategies, and support data-driven decision-making aligned with IKEA’s mission to create a better everyday life for its customers.
